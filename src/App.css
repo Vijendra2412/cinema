@@ -49,4 +49,31 @@ padding: 1rem;
 .movie-card{
 margin: 1rem;
 width: 20vw;
+position: relative;
 }
+
+
+.movie-title{
+position : absolute;
+top : 1rem;
+left : 1rem;
+color : white
+}
+
+
+.movies-button{
+position: absolute;
+bottom: 2rem;
+left : 5rem
+}
+
+
+.genre-selector{
+padding: 3rem;
+}
+
+
+.favourites-table{
+padding: 3rem;
+}
+
